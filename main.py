@@ -7,3 +7,8 @@ def main():
     print("main method called")
 
 
+def another(x):
+    print(x)
+
+another(6)
+   
